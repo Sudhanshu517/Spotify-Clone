@@ -15,10 +15,6 @@ This is a simple Spotify clone created using HTML, CSS, and JavaScript. The proj
 - **CSS**: Styling of the pages and layout, including hover effects and responsiveness.
 - **JavaScript**: Adding interactive behavior to the music player, like playing and pausing tracks, navigating between songs, etc.
 
-## Demo
-
-You can see a live demo of the project here (Insert link to your demo if hosted online, e.g., on GitHub Pages, Netlify, etc.).
-
 ## Installation
 
 To run this project locally, follow these steps:
