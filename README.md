@@ -23,5 +23,6 @@ This is a simple Spotify clone created using HTML, CSS, and JavaScript. The proj
 
 ## Video Demo
 
-Watch a video demo of the working Spotify clone:
+Watch a video demo of the working Spotify clone:<br>
+
 https://drive.google.com/file/d/1Ww-5umm3Tje7SLsSliQ8IlxNyPEfujq-/view?usp=sharing
