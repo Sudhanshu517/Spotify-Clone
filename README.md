@@ -17,8 +17,11 @@ This is a simple Spotify clone created using HTML, CSS, and JavaScript. The proj
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sudhanshu517/Spotify-Clone.git
+
+## Video Demo
+
+Watch a video demo of the working Spotify clone:
+https://drive.google.com/file/d/1Ww-5umm3Tje7SLsSliQ8IlxNyPEfujq-/view?usp=sharing
